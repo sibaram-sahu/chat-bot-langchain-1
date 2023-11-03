@@ -5,4 +5,9 @@ pip install -r requirement.txt
 
 ```
 
+```bash
+stremlit run app.py
+
+```
+
 ![ALT TEXT](./assets/ss.png)
